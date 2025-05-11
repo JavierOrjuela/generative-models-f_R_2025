@@ -1,6 +1,6 @@
 <h1 align="center"> Conditional generative models for generating 3D dark matter density fields </h1>
 <p align="center">
-  <strong>Paper:</strong> <a href="https://arxiv.org/abs/" target="_blank"> Conditional diffusion models for generating 3D cosmic density fields:
+  <strong>Paper:</strong> <a href="https://arxiv.org/abs/2502.17087" target="_blank"> Conditional diffusion models for generating 3D cosmic density fields:
 applications to $𝑓(𝑅)$ cosmologies </a>
 </p>
 <h1 align="left"> Abstract </h1>
